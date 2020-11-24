@@ -1,0 +1,11 @@
+{
+    
+       "nama":  "Ilham Fakih Hilmi",
+       "umur": 21,
+       "nrp": "183040080",
+       "lulus": false,
+       "hobby":[
+            "gaming",
+            "berenang"
+       ]
+}
